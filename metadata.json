@@ -1,0 +1,8 @@
+{
+  "name": "MAKE.INC — Studio Portal",
+  "description": "Studio operations, attendance, task tracking, and employee portal for MAKE.INC architecture and design-build studio.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
